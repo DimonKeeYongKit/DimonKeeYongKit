@@ -3,8 +3,8 @@
 - 🌱 I’m currently Senior Software Engineer at Enlliance Management Sdn Bhd....
 - 👀 I’m currently involved in Data Structure, web and desktop app development......
 - 📫 How to reach me: 
-     Personal: email(keeyongkit.2000@gmail.com)
-     Organization: email(dimonkee@enlliance.com)
+- Personal Email: email(keeyongkit.2000@gmail.com)
+- Work Email: email(dimonkee@enlliance.com)
 
 <!---
 DimonKeeYongKit/DimonKeeYongKit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
