@@ -1,9 +1,9 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Dimon here!
 ![](https://komarev.com/ghpvc/?username=DimonKeeYongKit)
 
-Hi, I am (Dimon) Kee Yong Kit, 
-:school:Graduated from Tunku Abdul Rahman University of Management and Technology (TAR UMT)  
-:handbag:Current IT Manager at Enlliance Management
+Hi, I am (Dimon) Kee Yong Kit,<br/>
+Graduated from Tunku Abdul Rahman University of Management and Technology (TAR UMT) <br/> 
+Current IT Manager at Enlliance Management
 
 [![Linkedin Badge](https://img.shields.io/badge/-dimonkee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimon-kee)](https://www.linkedin.com/in/dimon-kee)
 [![Medium Badge](https://img.shields.io/badge/-@dimonkee-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dimonkee/)](https://medium.com/@dimonkee)
